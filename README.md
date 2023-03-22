@@ -13,5 +13,5 @@
  
  ## Contributors
 
- https://github.com/MikolekN - developer
- https://github.com/dlydka - developer
+ - [Mikolek - developer](https://github.com/MikolekN)
+ - [Me - developer](https://github.com/dlydka)
